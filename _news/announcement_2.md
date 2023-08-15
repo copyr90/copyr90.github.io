@@ -19,5 +19,4 @@ Actually, a full stack engineer needs to master a lot of skills. See below.
 
 ***
 
-I used to work as a CTO in this company  <a href="https://addone.fun/#/"
-
+I used to work as a CTO in this company  <a href="https://www.pinterest.com">Addone</a>
