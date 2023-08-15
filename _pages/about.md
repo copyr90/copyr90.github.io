@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>wechat:null40</p>
-    <p>email:copyr09@gmail.com</p>
+    <p>email:728089766@qq.com</p>
     <p>Jingzhou, Hubei, China</p>
 
 news: true  # includes a list of news items
